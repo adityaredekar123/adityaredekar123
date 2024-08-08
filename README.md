@@ -2,11 +2,9 @@
 <h3 align="center">A Web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/6139167-Avento-marketing/attachments/11278854?mode=media">
 
-- 🌱 I’m currently learning **Node.js, React and AWS**
 
 - 📫 How to reach me **redekaraditya1234@gmail.com**
 
-- ⚡ **I am Funny!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
